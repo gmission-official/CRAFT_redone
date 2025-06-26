@@ -10,10 +10,8 @@ Text Detection inference code
 
 ### Results
 
-<div align="center">
-  <img src="assets/demo_321.jpg" alt="Demo 321" width="45%">
-  <img src="assets/demo_123.jpg" alt="Demo 123" width="45%">
-</div>
+![title](assets/demo_321.jpg)
+![title](assets/demo_123.jpg)
 
 ### Weights
 <!-- https://github.com/skconan -->
